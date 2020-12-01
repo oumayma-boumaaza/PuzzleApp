@@ -6,7 +6,7 @@ namespace PuzzleApp
 {
     public partial class Form1 : Form
     {
-        
+        //attributes
         private TableLayoutPanelCellPosition free;
         private Button[] btns;
         private int Time;
